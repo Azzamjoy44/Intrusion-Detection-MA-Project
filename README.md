@@ -5,7 +5,7 @@ Security system that performs different actions based on the distance of a perso
 :::info
 
 **Author**: Zafar Azzam \
-**GitHub Project Link**: https://github.com/UPB-FILS-MA/project-Azzamjoy44
+**GitHub Project Link**: https://github.com/Azzamjoy44/Intrusion-Detection-MA-Project
 
 :::
 
